@@ -9,7 +9,15 @@
 
 REQUERIMIENTOS:
 
-COMPOSER INSTALL
+COMPOSER INSTALL/n
+
+copy .env.example .env/n
+php artisan key:generate/n
+
+Crea tu bd en phpadmin/n
+
+migra/n
+
 PHP ARTISAN SERVE
 
 
